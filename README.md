@@ -1,1 +1,1 @@
-# logop
+# Whitelist logo
